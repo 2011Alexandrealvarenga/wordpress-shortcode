@@ -1,7 +1,8 @@
 # wordpress-shortcode
 Pegar codigo por shortcode
-codigo
 
+
+codigo na pagina 
 [wpc]
 
 <img src="img.PNG" alt="">
